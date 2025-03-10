@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can reach me on linkedin with my user name Richemond Jagoum
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I like singing in loud voice , especially when am singing praises.
+  
 ![Jagoum GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagoum&show_icons=true&theme=dark)
