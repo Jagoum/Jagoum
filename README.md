@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I like singing in loud voice , especially when am singing praises.
   
-![Jagoum GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagoum&show_icons=true)
+![Jagoum GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagoum&show_icons=true&theme=light)
