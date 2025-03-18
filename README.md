@@ -52,12 +52,13 @@ Here are some ideas to get you started:
 > — Chris Pin
 ---
 ### Fun Facts
-- 🎮 I love playing video games in my free time.
-- 📚 I read a lot of science fiction and fantasy books.
+- 🎮 I Love Reading books in  my free times.
+- 📚 I love singing when am bored or stressed.
+- @ I also Love coding and taking alot of coding challenges
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onelrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=onelrian&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagoum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=jagoum&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="GitHub Streak"  />
 </div>
 
 ###
@@ -78,11 +79,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1282748778717122722" target="_blank">
+  <a href="https://discordapp.com/users/1282740878343016633" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=jagoum&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-  <a href="mailto:onelsob57@gmail.com" target="_blank">
+  <a href="mailto:jagoum24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=jagoum&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
