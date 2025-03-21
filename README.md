@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 🔥 **Programming Languages**: 
   * 🦀 Rust
   * C
+  * Java
+  * C++
+  * Shell Script
 ---  
  🖥️ **OS**: 
  * Linux (Ubuntu)
