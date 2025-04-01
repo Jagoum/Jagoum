@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Jagoum GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagoum&show_icons=true&theme=dark)
 
 
-[![Jagoum Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Jagoum!;🚀+Welcome+to+My+GitHub+Profile!;🔥+Constantly+expanding+my+skill+set;Staying+up+to+date+with+the+latest+trends&center=true&width=1000&size=30&duration=3000&pause=1000)](https://git.io/Jagoum)
+[![Jagoum Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Jagoum!;🚀+Welcome+to+My+GitHub+Profile!;🔥+Constantly+expanding+my+skill+set;Staying+up+to+date+with+the+latest+trends&center=true&width=1000&size=30&duration=3000&pause=1000)](https://github.com/Jagoum)
 ---
 ### 🔧 Tech Stack  
 
