@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1282740878343016633" target="_blank">
+  <a href="[https://discordapp.com/users/1282740878343016633](https://discord.gg/xVeTZVQQ)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=jagoum&color=7356DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
