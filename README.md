@@ -6,13 +6,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  A project with the 4goat4rust
-- 🌱 I’m currently learning Rust and Software development strategies
 - 👯 I’m looking to collaborate on Rust Projects and software engineering projects
 - 🤔 I’m looking for help with Rust Intermidiate projects
-- 💬 Ask me about C programing language and about Linux
+- 💬 Ask me about C programing language and about Linux, Python, Java and Rust.
 - 📫 How to reach me: you can reach me on linkedin with my user name Richemond Jagoum
 - 😄 Pronouns: ...
-- ⚡ Fun fact:  I like singing in loud voice , especially when am singing praises.
+- ⚡ Fun fact:  I like singing in loud voice , especially when am singing praises. I love reading.
+- Worked on more system admistration and cloud deployment projects. Like OpenStack deployment.
+
   
 ## Hello there 👋
 <div id="header" align="center">
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 
 🔥 **Programming Languages**: 
   * 🦀 Rust
+  * Python
   * C
   * Java
   * C++
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
  * VS Code 
  * Multipass , 
  * Eclipse
+ * Virsh Manager
 
 ---
 🌐 **Interests**: System Development and Administration, Cybersecurity , Cloud Computing 
@@ -57,7 +60,7 @@ Here are some ideas to get you started:
 ### Fun Facts
 - 🎮 I Love Reading books in  my free times.
 - 📚 I love singing when am bored or stressed.
-- @ I also Love coding and taking alot of coding challenges
+- @ I also Love coding and taking alot of coding challenges (Hackathons)
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagoum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="200" alt="languages graph"  />
