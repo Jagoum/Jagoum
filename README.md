@@ -5,25 +5,25 @@
 <p><em>SRE • Junior DevOps • Linux Admin • Cloud Enthusiast</em></p>
 </div>
 
-[![Quote](https://readme-typing-svg.demolab.com/?lines=Building+resilient+infrastructure+through+automation;Orchestrating+cloud-native+architectures;Passionate+about+graphics,+design+and+data+science;Exploring+Rust,+Python+and+modern+web+technologies&center=true&width=800&size=22&duration=3000&pause=1000)](https://git.io/typing-svg)
+[![Quote](https://readme-typing-svg.demolab.com/?lines=Building+resilient+infrastructure+through+automation;Orchestrating+cloud-native+architectures;Exploring+AI+Engineering+and+RAG+systems;Passionate+about+graphics,+design+and+data+science&center=true&width=800&size=22&duration=3000&pause=1000)](https://git.io/typing-svg)
 
 ---
 
 ## Areas of Expertise
 
-System Administrator and DevOps Engineer passionate about building resilient infrastructure.  
-Exploring cloud technologies, automation, and modern development practices.
+Linux System Administrator and DevOps Engineer with hands-on experience at **adorsys** and **skyengpro**.  
+Specializing in infrastructure automation, cloud platforms, and enterprise storage solutions. Exploring **AI Engineering**, building RAG systems and intelligent software. LPIC-1 & LPIC-2 certified.
 
 <table align="center">
 <tr>
 <td align="center">
 
-![Infrastructure](https://img.shields.io/badge/Infrastructure_&_Cloud-OpenStack_•_Multi--cloud_•_Linux-4A90E2?style=for-the-badge&labelColor=2C3E50)
+![Infrastructure](https://img.shields.io/badge/Infrastructure_&_Cloud-OpenStack_•_AWS_•_GCP_•_Linux-4A90E2?style=for-the-badge&labelColor=2C3E50)
 
 </td>
 <td align="center">
 
-![Automation](https://img.shields.io/badge/Automation_&_DevOps-Docker_•_CI/CD_•_GitOps-7B68EE?style=for-the-badge&labelColor=2C3E50)
+![Automation](https://img.shields.io/badge/Automation_&_DevOps-Terraform_•_Ansible_•_Kubernetes_•_CI/CD-7B68EE?style=for-the-badge&labelColor=2C3E50)
 
 </td>
 </tr>
@@ -35,11 +35,31 @@ Exploring cloud technologies, automation, and modern development practices.
 </td>
 <td align="center">
 
-![Creative](https://img.shields.io/badge/Creative_&_Analytics-Graphics_•_Video_Editing_•_Data_Science-E74C3C?style=for-the-badge&labelColor=2C3E50)
+![Security](https://img.shields.io/badge/Networking_&_Security-Linux_Security_•_Cisco_•_LPIC_Certified-E74C3C?style=for-the-badge&labelColor=2C3E50)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-RAG_Systems_•_Intelligent_Software_•_Vector_DBs-FF6B6B?style=for-the-badge&labelColor=2C3E50)
 
 </td>
 </tr>
 </table>
+
+---
+
+## Certifications & Learning
+
+<div align="center">
+
+![LPIC-1](https://img.shields.io/badge/LPIC--1-Certified-00BC7E?style=for-the-badge&logo=linux&logoColor=white)
+![LPIC-2](https://img.shields.io/badge/LPIC--2-Certified-00BC7E?style=for-the-badge&logo=linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network_Courses-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/HCIA--Storage_V5-In_Progress-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+</div>
 
 ---
 
@@ -63,14 +83,33 @@ Exploring cloud technologies, automation, and modern development practices.
 ### Cloud & Infrastructure
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Systems & Tools
+### DevOps & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Virtualization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Virt--Manager](https://img.shields.io/badge/Virt--Manager-E95420?style=for-the-badge&logo=linux&logoColor=white)
+![Multipass](https://img.shields.io/badge/Multipass-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Systems & Databases
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Linux_Security-00BC7E?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
 
@@ -110,5 +149,7 @@ Exploring cloud technologies, automation, and modern development practices.
 ---
 
 <div align="center">
-  <sub>DevOps engineer focused on automation and infrastructure excellence. Passionate about graphics, design, video editing, and exploring data science. Always learning, always building.</sub>
+  <sub>DevOps engineer focused on automation and infrastructure excellence. Exploring AI Engineering with RAG systems and intelligent software. Passionate about graphics, design, video editing, and data science.</sub>
+  <br/><br/>
+  <sub>✝️ <em>"I can do all things through Christ who strengthens me." - Philippians 4:13</em> ✝️</sub>
 </div>
