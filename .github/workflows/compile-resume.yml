@@ -16,10 +16,10 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: resume.tex
+          root_file: resume_sre.tex
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: resume
-          path: resume.pdf
+          name: resume_sre
+          path: resume_sre.pdf
