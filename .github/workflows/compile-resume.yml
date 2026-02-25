@@ -3,7 +3,7 @@ name: Build LaTeX Resume
 on:
   push:
     paths:
-      - 'resume.tex'
+      - 'resume_sre.tex'
   workflow_dispatch:
 
 jobs:
